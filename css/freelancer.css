@@ -399,8 +399,8 @@ footer {
 .btn-success {
   font-weight: 700;
   color: white;
-  border-color: #18BC9C;
-  background-color: #18BC9C; }
+  border-color: #9999ff;
+  background-color: #9999ff; }
   .btn-success.focus, .btn-success:focus {
     color: white;
     border-color: #0a4b3e;
@@ -431,7 +431,7 @@ footer {
     border-color: #18BC9C;
     background-color: #18BC9C; }
   .btn-success .badge {
-    color: #18BC9C;
+    color: #9999ff;
     background-color: white; }
 
 .btn-social {
